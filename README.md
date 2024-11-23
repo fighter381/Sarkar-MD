@@ -63,7 +63,17 @@ FORK THE REPOSITORY (Repo)
 
 [![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-blue.svg)](https://toystack.ai)
 
+♻️CREATE ACCOUNT ✅  
+<br>
+<a href='https://app.koyeb.com/auth/signup' target="_blank">
+  <img alt='CREATE ACCOUNT' src='https://img.shields.io/badge/-CREATE_ACCOUNT-green?style=for-the-badge&logo=koyeb&logoColor=white'/>
+</a>
 
+♻️DEPLOY TO [KOYEB] ✅  
+<br>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=Sarkar-Bandaheali/Sarkar-MD&ports=3000;http;/&env[SESSIOlN_ID]=&env[ALWAYS_ONLINE]=true&env[AUTO_READ]=true&env[AUTO_STATUS_VIEW]=true&env[PREFIX]=.&env&env[AUTO_REACT]=true&env[ANTI_CALL]=true&builder=Buildpack' target="_blank">
+  <img alt='DEPLOY' src='https://www.koyeb.com/static/images/deploy/button.svg'/>
+</a>
  # 😈 Sarkar-MD INFO
 ***
 ## ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ // Whatsapp group
